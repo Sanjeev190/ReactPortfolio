@@ -1,0 +1,16 @@
+.portfolio{
+    color: #000000; 
+   font-family:cursive ;
+  font-style: italic;
+    font-weight: bold;
+   font-size :18px;
+ line-height: 1.5;
+}
+/* Add this to your CSS file */
+.image-uniform {
+    width: 150px; /* Set the desired width */
+    height: 150px; /* Set the desired height */
+    object-fit: cover; /* Ensures images fill the container without distortion */
+    border-radius: 8px; /* Optional: makes the images rounded */
+  }
+  
