@@ -17,41 +17,8 @@ const styles={
 
 export default function About() {
   return (
-    // <div>
-    //   <div className="portfolio-header">
-    //   <h1>Portfolio</h1>
-    //   </div>
-    //   <div>
-    //   <p className="portfolio">
-    //     Hi this is my prtfolio. here are some of the projects I have worked on. feel free to check it out
-    //   </p>
-    //   </div>
-    //   <div className="portfolio-container">
-    //     <ul>
-    //       <li>
-    //         <img src="../../public/images/c1.png" alt="project1" />
-    //         < a href=" https://sanjeev190.github.io/Weather-application/">Weather Application </a>
-    //       </li>
-    //       <li>
-    //         <img src="../../public/images/c2.png" alt="project2" />
-    //         <a href="https://github.com/Sanjeev190/TechBlog">Tech Blog</a>
-    //       </li>
-    //       <li>
-    //         <img src="../../public/images/c3.png" alt="project3" />
-    //         <a href=" https://sanjeev190.github.io/pick-my-flick2/">Pick my flick</a>
-    //       </li>
-    //       <li>
-    //         <img src="../../public/images/c4.png" alt="project4" />
-    //         <a href="https://github.com/Sanjeev190/EmployeeTracker2">Employee Tracker</a>
-    //       </li>
-    //       <li>
-    //         <img src="../../public/images/c5.png" alt="project5" />
-    //         <a href="https://github.com/Sanjeev190/Readme-file">Read Me file</a>
-    //       </li>
-        
-    //     </ul>
-    //     </div>
-    // </div>
+   
+  
     <div className="container my-5">
   <div className="portfolio-header text-center mb-4">
     <h1 style={{ fontFamily: '"Dancing Script", cursive',

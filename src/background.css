@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.background-container {
+  background-image: url('../public/images/c6.png'); /* Path to your image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0.9; /* Adjust transparency */
+  min-height: 100vh;
+}
+
+  
+  /* Ensure navigation is unaffected */
+  nav {
+    position: relative;
+    z-index: 1;
+    background-color: #fff; /* Optional: Background color to separate */
+  }
+  main {
+    padding: 20px; /* Adjust padding as needed */
+  }
+  

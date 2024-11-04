@@ -40,7 +40,7 @@ header:{
   
 }}
 
-
+// import '../background.css'; 
 export default function Home() {
   return (
     
