@@ -31,5 +31,7 @@
  1) If you have any question feel free to contact me at email:sanjeevthapa961@gmail.com
 
   2) you can also visit my github profile at https://github.com/sanjeev190
+
+  3) The link to the deployed website is https://majestic-pika-f5f455.netlify.app/Portfolio
   
   
