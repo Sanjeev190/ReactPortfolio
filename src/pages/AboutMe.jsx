@@ -49,7 +49,7 @@ export default function Home() {
       <h1 style={styles.header}>About Me</h1>
       </div>
       <div style={styles.margin} >
-        <img src="../../public/images/profilepicture.jpg" style={styles.profileContainer} alt="profile" />
+        <img src="../../images/profilepicture.jpg" style={styles.profileContainer} alt="profile" />
         </div>
         <div>
       <p style={styles.color}
