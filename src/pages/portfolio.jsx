@@ -34,7 +34,7 @@ export default function About() {
       <div className="col-6 col-md-4 col-lg-3 mb-4">
         <div className="text-center">
           <img 
-            src="../../images/c1.png" 
+            src="../../images/picture2.avif" 
             alt="project1" 
             className="img-fluid rounded image-uniform" 
             style={{ maxWidth: "100%", height: "auto" }} 
@@ -47,7 +47,7 @@ export default function About() {
       <div className="col-6 col-md-4 col-lg-3 mb-4">
         <div className="text-center">
           <img 
-            src="../../images/c2.png" 
+            src="../../images/picture3.jpg" 
             alt="project2" 
             className="img-fluid rounded image-uniform" 
             style={{ maxWidth: "100%", height: "auto" }} 
@@ -60,7 +60,7 @@ export default function About() {
       <div className="col-6 col-md-4 col-lg-3 mb-4">
         <div className="text-center">
           <img 
-            src="../../images/c3.png" 
+            src="../../images/picture6.avif" 
             alt="project3" 
             className="img-fluid rounded image-uniform" 
             style={{ maxWidth: "100%", height: "auto" }} 
@@ -73,7 +73,7 @@ export default function About() {
       <div className="col-6 col-md-4 col-lg-3 mb-4">
         <div className="text-center">
           <img 
-            src="../../images/c4.png" 
+            src="../../images/picture4.avif" 
             alt="project4" 
             className="img-fluid rounded image-uniform" 
             style={{ maxWidth: "100%", height: "auto" }} 
@@ -86,7 +86,7 @@ export default function About() {
       <div className="col-6 col-md-4 col-lg-3 mb-4">
         <div className="text-center">
           <img 
-            src="../../images/c5.png" 
+            src="../../images/picture.jpg" 
             alt="project5" 
             className="img-fluid rounded image-uniform" 
             style={{ maxWidth: "100%", height: "auto" }} 

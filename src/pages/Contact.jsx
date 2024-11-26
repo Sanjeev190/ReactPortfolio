@@ -19,7 +19,7 @@ export default function Contact() {
 
       <h1 style={styles.header}>Contact Page</h1>
       <div className="container mt-5">
-            <h2 className="text-center mb-4">Contact Us</h2>
+            <h2 className="text-center mb-4">Contact Me</h2>
             <div className="row justify-content-center">
                 <div className="col-md-6">
                     <form>
