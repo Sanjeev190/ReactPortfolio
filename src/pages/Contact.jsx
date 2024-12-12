@@ -4,8 +4,8 @@ const styles={
     color: '#000000', // Text color
       // fontFamily: "cursive", 
       // Example font family
-      fontFamily: '"Dancing Script", cursive',
-      fontStyle: 'italic', 
+      fontFamily: 'consolas',
+       
       fontWeight: 'bold', // Font weight
       fontSize: '35px'
     

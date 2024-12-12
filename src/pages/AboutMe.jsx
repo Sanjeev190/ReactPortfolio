@@ -21,8 +21,8 @@ color:
   color: '#000000', // Text color
     // fontFamily: "cursive", 
     // Example font family
-    fontFamily: '"Dancing Script", cursive',
-    fontStyle: 'italic', 
+    fontFamily: 'consolas',
+
     fontWeight: 'bold', // Font weight
     fontSize: '18px', // Example font size
     lineHeight: '1.5', 
@@ -33,7 +33,7 @@ header:{
   color: '#000000', // Text color
     // fontFamily: "cursive", 
     // Example font family
-    fontFamily: '"Dancing Script", cursive',
+    fontFamily: 'consolas',
     fontStyle: 'italic', 
     fontWeight: 'bold', // Font weight
     fontSize: '35px'
